@@ -1,0 +1,4 @@
+﻿# Antigravity IDE - jangan push binary IDE
+Antigravity IDE/
+.git/
+*.log
